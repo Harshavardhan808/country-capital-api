@@ -5,7 +5,7 @@ Get name of the country when capital city is provided via a RESTful API
 - Python
 - Flask
 ### installing
-https://www.uvicorn.org/
+https://www.uvicorn.org/  
 https://www.uvicorn.org/settings/  
 ## contributing
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
